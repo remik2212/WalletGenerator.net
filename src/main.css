@@ -278,6 +278,19 @@ h1 { margin: 0px; height: 91px; }
   #bulkstartindex { width: 35px; }
   #bulklimit { width: 45px; }
 
+  #splitarea { text-align: left; }
+  #splitarea span { padding: 0; }
+  #splitcommands { padding: 10px 15px; text-align: left; }
+  #combinecommands { padding: 10px 15px; }
+  #splitstep1area { display: none; text-align: left; position: relative; padding: 0; border-bottom: 2px solid #bfbfbf; }
+  .splitsharerow { border-bottom: 2px solid #bfbfbf; padding: 15px; }
+  .splitsharerow:last-child { border-bottom: 0; }
+  #combinelabelprivatekey { text-decoration: underline; }
+  #splitarea .output { display: block; font-family: monospace; font-size: 1.25em; }
+  #splitarea span.output { display: inline; }
+  #splitstep2area { padding:  10px 15px; }
+  #splitstep1icon { padding: 0 5px; }
+
   .footer { font-size: 90%; clear: both; width: 750px; padding: 10px 0 10px 0; margin: 50px auto auto auto; }
   .footer div span.item { margin: 10px; }
   .footer .authorbtc { float: left; width: 470px; }

@@ -84,6 +84,9 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //ellipticcurve.js
   </script>
   <script type="text/javascript">
+//secrets.js
+  </script>
+  <script type="text/javascript">
 //biginteger.js
   </script>
   <script type="text/javascript">
@@ -147,6 +150,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       <div class="tab i18n selected" id="singlewallet" onclick="ninja.tabSwitch(this);">Single Wallet</div>
       <div class="tab i18n" id="paperwallet" onclick="ninja.tabSwitch(this);">Paper Wallet</div>
       <div class="tab i18n" id="brainwallet" onclick="ninja.tabSwitch(this);">Brain Wallet</div>
+      <div class="tab i18n" id="splitwallet" onclick="ninja.tabSwitch(this);">Split Wallet</div>
       <div class="tab i18n" id="detailwallet" onclick="ninja.tabSwitch(this);">Wallet Details</div>
     </div>
 
@@ -356,6 +360,37 @@ LBRY Credits paper wallet uses the same security measures as the original projec
         </div>
       </div>
 
+      <div id="splitarea" class="walletarea">
+        <div id="splitcommands" class="commands" >
+          <div class="row">
+            <span class="label"><label id="splitlabelthreshold">Minimum share threshold needed to combine:</label></span>
+            <input type="text" id="splitthreshold" value="2" size="4"/>
+            <span class="print"><input type="button" name="print" id="splitprint" value="Print" onclick="window.print();" /></span>
+          </div>
+          <div class="row extra">
+            <span class="label"><label id="splitlabelshares">Number of shares:</label></span>
+            <input type="text" id="splitshares" value="3" size="4"/>
+            <span><input type="button" id="splitview" value="Generate" onclick="ninja.wallets.splitwallet.splitKey();"></span>
+            <div id="splitstep1icon" class="more " onclick="ninja.wallets.splitwallet.openCloseStep(1);"></div>
+          </div>
+        </div>
+        <div id="splitstep1area"></div>
+
+        <div id="combinecommands" class="left commands">
+          <span>
+              <label id="combinelabelentershares">Enter Available Shares (whitespace separated):</label><br/>
+              <textarea id="combineinput" cols="60" rows="10"></textarea><br/>
+          </span>
+          <span><input type="button" id="combineview" value="Combine Shares" onclick="ninja.wallets.splitwallet.combineShares();"></span>
+        </div>
+        <div id="splitstep2area">
+          <div id="combineoutput">
+            <label id="combinelabelprivatekey">Combined Private Key</label>
+            <div id="combinedprivatekey" class="output"></div>
+          </div>
+        </div>
+      </div>
+
       <div id="detailarea" class="walletarea">
         <div id="detailcommands" class="commands">
 
@@ -502,6 +537,9 @@ LBRY Credits paper wallet uses the same security measures as the original projec
   </script>
   <script type="text/javascript">
 //ninja.detailwallet.js
+  </script>
+  <script type="text/javascript">
+//ninja.splitwallet.js
   </script>
   <script type="text/javascript">
 //ninja.unittests.js
