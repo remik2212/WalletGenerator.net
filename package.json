@@ -1,7 +1,7 @@
 {
-  "name": "walletgenerator.net",
+  "name": "lbc-paper-wallet",
   "version": "3.3.0",
-  "description": "Open Source JavaScript Client-Side Bitcoin Wallet Generator",
+  "description": "Open Source JavaScript Client-Side LBRY Credits Wallet Generator",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "~0.4.1",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/MichaelMure/WalletGenerator.net.git"
+    "url": "git://github.com/lbryio/lbc-paper-wallet.git"
   },
   "keywords": [
-    "bitcoin address wallet generator"
+    "LBRY Credits address wallet generator"
   ],
-  "author": "MichaelMure",
+  "author": "lbry.io",
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/MichaelMure/WalletGenerator.net/issues"
+    "url": "https://github.com/lbryio/lbc-paper-wallet/issues"
   }
 }

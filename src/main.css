@@ -114,28 +114,6 @@ h1 { margin: 0px; height: 91px; }
   text-align: left;
 }
 
-.supportedCurrenciesChecklist {
-  background-color: #C2F2C3;
-  margin-top: 10px;
-  margin-bottom: 10px;
-    padding: 20px;
-    -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-  text-align: left;
-}
-
-.supportedCurrenciesChecklist ul {
-  list-style-type: none;
-  padding-left: 14px;
-}
-
-#supportedcurrencies {
-  line-height: 20px;
-    padding: 12px 12px 0;
-  text-align: justify;
-}
-
 .frontPageInstructions {
   padding: 5px;
 }
@@ -257,16 +235,7 @@ h1 { margin: 0px; height: 91px; }
 .dialog { z-index: 6000; position: relative; background: white; border: 2px solid #f7931a; width: 600px; margin: 150px auto; padding: 1em; }
 .dialog-narrow { width: 300px; }
 
-#currencyddl { margin: 20px; position: absolute; right: 0; top: 60px; width: 320px; font-size: 14px; }
-#currencyddl select { font-size: 14px; }
-
 .banner { font-size: 46px; text-shadow: 1px 1px 3px #000; color: #FF9547; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); text-align: left; position: relative; }
-
-#donateqrcode { padding: 8px; position: absolute; left: 550px; margin: 25px; border: black solid 1px; background-color: white; }
-#donatelist { padding: 20px; }
-
-#donatearea { text-align: left; padding: 15px 15px 120px 15px; position: relative; }
-#donatearea .address { font-family: 'Courier New', Courier, monospace; }
 
 /* IE8 */
 .qrcodetable { border-width: 0px; border-style: none; border-color: #0000ff; border-collapse: collapse; }
@@ -341,5 +310,4 @@ h1 { margin: 0px; height: 91px; }
   #currency { display: none; }
   #paperarea .artwallet .btcaddress, #paperarea .artwallet .btcprivwif { z-index: 999; }
   .paperWalletText { z-index: 999;}
-    .dogeTag { display: none; }
 }
