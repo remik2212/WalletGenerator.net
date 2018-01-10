@@ -21,7 +21,7 @@
     "securitystep2title": "Passo 2. Imprima a Carteira de Papel",
     "securitystep2": "Abra a aba da Carteira de Papel e imprima a página na opção de alta qualidade de impressão. <strong>Nunca salve a página como um arquivo PDF para imprimi-lo depois já que um arquivo é mais fácil ser hackeado do que um pedaço de papel.</strong>",
     "securitystep3title": "Passo 3. Dobre a Carteira de Papel",
-    "securitystep3": "Dobre sua nova Carteira de Papel seguindo as linhas.\n<img src=\"images/foldinginstructions.png\" alt=\"Dobre no meio horizontalmente (em vermelho) e então em três partes, verticalmente.\"><br>\nVocê pode colocar um lado dentro do outro para \"travar\" a carteira.",
+    "securitystep3": "Dobre sua nova Carteira de Papel seguindo as linhas.\n<img src=\"images/foldinginstructions.jpg\" alt=\"Dobre no meio horizontalmente (em vermelho) e então em três partes, verticalmente.\"><br>\nVocê pode colocar um lado dentro do outro para \"travar\" a carteira.",
     "securitystep4title": "Passo 4. Compartilhe seu endereço público",
     "securitystep4": "Use seu endereço público para receber dinheiro de outros usuários da cripto-moeda. Você pode compartilhar seu endereço público o quanto você quiser.",
     "securitystep5title": "Passo 5. Mantenha sua chave privada em segredo",

@@ -21,7 +21,7 @@
     "securitystep2title": "Schritt 2: Ausdruck Ihrer Papier Geldbörse",
     "securitystep2": "Klicken Sie auf die Tabelle \"Papier Geldbörse\" und drucken Sie die Seite in hoher Qualität aus. Empfehlung: Verwenden Sie nach Möglichkeit hochwertiges Papier. <strong>Hinweis:</strong> Speichern Sie die Druckausgabe nicht im PDF-Format, weil diese Datei ansonsten später von Angreifern abgegriffen und Ihr Guthaben gestolen werden könnte.",
     "securitystep3title": "Schritt 3: Ausdruck Papier Geldbörse falten",
-    "securitystep3": "Falten Sie Ihre neue Papier Geldbörse an folgenden Linien.\n<img src=\"images/foldinginstructions.png\" alt=\"Falten Sie einmal quer und zweimal längs.\"><br>\nDie öffentliche Adresse liegt zum Schutz auf dem privaten Schlüssel, beide Schlüssel schützen Sie mit der Deckfaltung von rechts.",
+    "securitystep3": "Falten Sie Ihre neue Papier Geldbörse an folgenden Linien.\n<img src=\"images/foldinginstructions.jpg\" alt=\"Falten Sie einmal quer und zweimal längs.\"><br>\nDie öffentliche Adresse liegt zum Schutz auf dem privaten Schlüssel, beide Schlüssel schützen Sie mit der Deckfaltung von rechts.",
     "securitystep4title": "Schritt 4: Teilen Sie Ihre öffentliche Adresse",
     "securitystep4": "Verwenden Sie Ihre öffentliche Adresse, um eingehende Zahlungen von anderen Nutzern der ausgewählten Kryptowährung zu erhalten. Ihre öffentliche Adresse können Sie nach belieben teilen. Mit Ihrer öffentlichen Adresse können Sie zudem jederzeit Ihr Guthaben über einen öffentlichen Block-Explorer überprüfen.",
     "securitystep5title": "Schritt 5: Privaten Schlüssel Geheim halten",

@@ -21,7 +21,7 @@
     "securitystep2title": "Paso 2. Imprime la cartera de papel",
     "securitystep2": "Haz click en la pestaña Cartera de papel e imprime la página con la configuración de alta calidad. <strong>Nunca guardes la página como un archivo PDF para imprimirla más tarde porque un archivo es más facilmente hackeable que un trozo de papel.</strong>",
     "securitystep3title": "Paso 3. Pliega la cartera de papel",
-    "securitystep3": "Pliega tu cartera de papel nueva siguiendo las líneas.\n<img src=\"images/foldinginstructions.png\" alt=\"Dobla por la mitad a lo largo, y después en tres a lo ancho.\"><br>\nPuedes introducir un extremo dentro del otro para cerrar la cartera.",
+    "securitystep3": "Pliega tu cartera de papel nueva siguiendo las líneas.\n<img src=\"images/foldinginstructions.jpg\" alt=\"Dobla por la mitad a lo largo, y después en tres a lo ancho.\"><br>\nPuedes introducir un extremo dentro del otro para cerrar la cartera.",
     "securitystep4title": "Paso 4. Comparte tu dirección pública",
     "securitystep4": "Utiliza tu dirección pública para recibir dinero de otros usuarios de criptodivisas. Puedes compartir tu dirección pública tanto como quieras.",
     "securitystep5title": "Paso 5. Mantén secreta tu clave privada",

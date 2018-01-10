@@ -36,7 +36,7 @@ module.exports = function (grunt) {
           {token: "//qrcode.js", file: "./src/qrcode.js"},
           {token: "//securerandom.js", file: "./src/securerandom.js"},
           {token: "//janin.currency.js", file: "./src/janin.currency.js"},
-          {token: "//main.css", file: "./src/main.css"}
+          {token: "//main.css", file: "./src/main.inline.css"}
         ]
       },
       i18n: {
@@ -57,10 +57,27 @@ module.exports = function (grunt) {
           {token: "//zh.js", file: './l10n/zh.js'}
         ]
       }
+    },
+    inline: {
+        css: {
+            options: {
+                tag: ''
+            },
+            src: './src/main.css',
+            dest: './src/main.inline.css',
+        },
+        html: {
+          options: {
+            tag: ''
+          },
+          src: './index.html',
+          dest: './index.html',
+        }
     }
   })
 
   grunt.file.defaultEncoding = 'utf-8'
   grunt.loadNpmTasks("grunt-combine")
-  grunt.registerTask("default", ["combine:src", "combine:i18n"])
+  grunt.loadNpmTasks("grunt-inline")
+  grunt.registerTask("default", ["inline:css", "combine:src", "combine:i18n", "inline:html"])
 }

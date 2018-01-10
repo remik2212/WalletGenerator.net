@@ -21,7 +21,7 @@
 	"securitystep2title": "Stap 2. Print de Papieren Portomonee",
 	"securitystep2": "Klik de Papieren Portomonee tab en print de pagina in hoge kwaliteit uit.",
 	"securitystep3title": "Stap 3. Vouw de Papieren Portomonee",
-	"securitystep3": "Vouw je nieuwe Papieren Portomonee langs de aangegeven lijnen. \n<img src=\"images/foldinginstructions.png\" alt=\"Vouw het eerst om in één lange deel in de lengte, en daarna in drie delen in de breedte\"><br>",
+	"securitystep3": "Vouw je nieuwe Papieren Portomonee langs de aangegeven lijnen. \n<img src=\"images/foldinginstructions.jpg\" alt=\"Vouw het eerst om in één lange deel in de lengte, en daarna in drie delen in de breedte\"><br>",
 	"securitystep4title": "Stap 4. Deel je publiek adres",
 	"securitystep4": "Gebruik je publiek adres om geld van andere crypto-currency gebruikers te ontvangen. Je kunt je publieke sleutel zoveel delen als je maar wilt.",
 	"securitystep5title": "Stap 5. Bewaar je prive sleutel op een veilige plek",

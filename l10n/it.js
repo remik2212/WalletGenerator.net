@@ -28,7 +28,7 @@
 	"securitystep2title": "Passo 2. Stampare il Vostro portafogli",
 	"securitystep2": "Fai clic sulla scheda \"portafogli\" e stampa la pagina in alta qualità. <strong> Non salvare mai la pagina in formato PDF in quanto è più probabile che sia violato un file piuttosto che un foglio di carta.</strong>",
 	"securitystep3title": "Passo 3. Piegare il portafogli",
-	"securitystep3": "Piegate il vostro nuovo portafogli seguendo le linee.\n<img src=\"images/foldinginstructions.png\" alt=\"Piegare a metà longitudinalmente e poi in tre nella direzione della larghezza.\"><br>\nÈ possibile inserire un lato nell'altro per chiudere il portafogli.",
+	"securitystep3": "Piegate il vostro nuovo portafogli seguendo le linee.\n<img src=\"images/foldinginstructions.jpg\" alt=\"Piegare a metà longitudinalmente e poi in tre nella direzione della larghezza.\"><br>\nÈ possibile inserire un lato nell'altro per chiudere il portafogli.",
 	"securitystep4title": "Passo 4. Condividi il tuo indirizzo pubblico",
 	"securitystep4": "Invia il tuo indirizzo pubblico per ricevere denaro da altri utenti nella stessa valuta. Puoi condividere l'indirizzo pubblico quanto vuoi.",
 	"securitystep5title": "Passo 5. Mantenere segreta la tua chiave privata",

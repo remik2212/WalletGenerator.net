@@ -21,7 +21,7 @@
     "securitystep2title": "第二步：列印出紙錢包",
     "securitystep2": "選擇「紙錢包」頁籤，接著設定印表機以高品質列印出來。<strong>注意：絕對不要暫存為PDF檔以供列印，PDF檔比一張物理上的紙更容易被駭。</strong>",
     "securitystep3title": "第三步：摺疊紙錢包",
-    "securitystep3": "根據圖片折疊紙錢包。\n<img src=\"images/foldinginstructions.png\" alt=\"先依長邊對折，再依摺線摺為三等分。\"><br>\nYou can insert one side inside the other to lock the wallet.",
+    "securitystep3": "根據圖片折疊紙錢包。\n<img src=\"images/foldinginstructions.jpg\" alt=\"先依長邊對折，再依摺線摺為三等分。\"><br>\nYou can insert one side inside the other to lock the wallet.",
     "securitystep4title": "第四步：使用公鑰地址",
     "securitystep4": "您可以將公鑰地址分享給其他加密貨幣使用者，不必擔心安全問題。",
     "securitystep5title": "第五步：將私鑰保存妥當",

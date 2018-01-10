@@ -120,17 +120,17 @@ ninja.wallets.paperwallet = {
 
 	templateArtisticHtml: function (i) {
 		var keyelement = 'btcprivwif';
-		var coinImgUrl = "logos/" + janin.selectedCurrency.name.toLowerCase() + ".png";
-		var walletBackgroundUrl = "wallets/" + janin.selectedCurrency.name.toLowerCase() + ".png";
+		var coinImg = "<img id='coinImg' src='images/lbry-logo.png' alt='currency_logo' />";
+		var backLogo = coinImg.replace("id='coinImg'", "class='backLogo'");
 
 		var walletHtml =
-							"<div class='coinIcoin'> <img id='coinImg' src='" + coinImgUrl + "' alt='currency_logo' /></div><div class='artwallet' id='artwallet" + i + "'>" +
-								"<img id='papersvg" + i + "' class='papersvg' src='" + walletBackgroundUrl + "' />" +
+							"<div class='coinIcoin'> " + coinImg + "</div><div class='artwallet' id='artwallet" + i + "'>" +
+								"<img id='papersvg" + i + "' class='papersvg' src='images/lbry-wallet.png' />" +
 								"<div id='qrcode_public" + i + "' class='qrcode_public'></div>" +
 								"<div id='qrcode_private" + i + "' class='qrcode_private'></div>" +
 								"<div class='btcaddress' id='btcaddress" + i + "'></div>" +
 								"<div class='" + keyelement + "' id='" + keyelement + i + "'></div>" +
-								"<div class='paperWalletText'><img class='backLogo' src='" + coinImgUrl + "' alt='currency_logo' />" + ninja.translator.get("paperwalletback") + "</div>" +
+								"<div class='paperWalletText'>" + backLogo + ninja.translator.get("paperwalletback") + "</div>" +
 							"</div>";
 		return walletHtml;
 	},

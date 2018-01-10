@@ -6,6 +6,7 @@
   "dependencies": {
     "grunt": "~0.4.1",
     "grunt-combine": "~0.8.3",
+    "grunt-inline": "^0.3.6",
     "grunt-lineending": "~0.2.4"
   },
   "repository": {

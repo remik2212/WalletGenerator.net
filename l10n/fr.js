@@ -21,7 +21,7 @@
     "securitystep2title": "Étape 2. Imprimez votre porte-monnaie",
     "securitystep2": "Cliquez sur l'onglet \"Porte-Monnaie Papier\" et imprimez la page en haute qualité. <strong>Ne sauvegardez jamais la page au format PDF, car un fichier est plus susceptible d'être piraté qu'une feuille de papier.</strong>",
     "securitystep3title": "Étape 3. Pliez le porte-monnaie papier",
-    "securitystep3": "Pliez votre nouveau porte-monnaie papier en suivant les lignes.\n<img src=\"images/foldinginstructions.png\" alt=\"Pliez en deux dans le sens de la longueur, puis en trois dans le sens de la largeur.\"><br>\nVous pouvez insérer un coté dans l'autre pour fermer le porte-monnaie.",
+    "securitystep3": "Pliez votre nouveau porte-monnaie papier en suivant les lignes.\n<img src=\"images/foldinginstructions.jpg\" alt=\"Pliez en deux dans le sens de la longueur, puis en trois dans le sens de la largeur.\"><br>\nVous pouvez insérer un coté dans l'autre pour fermer le porte-monnaie.",
     "securitystep4title": "Étape 4. Partagez votre adresse publique",
     "securitystep4": "Transmettez votre adresse publique pour recevoir de l'argent d'autres utilisateurs de cette monnaie. Vous pouvez partager l'adresse publique autant que vous voulez.",
     "securitystep5title": "Étape 5. Gardez votre clé privée secrète",

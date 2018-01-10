@@ -21,7 +21,7 @@
     "securitystep2title": "Krok 2. Wydrukuj papierowy portfel.",
     "securitystep2": "Kliknij zakładkę \”Portfel papierowy\” i wydrukuj stronę z ustawieniami wysokiej jakości druku. <strong>Nigdy nie zapisuj strony jako PDF. Zdecydowanie łatwiej jest zhakować plik, niż kartkę papieru</strong>",
     "securitystep3title": "Krok 3. Złóż swój portfel papierowy",
-    "securitystep3": "Złóż swój nowy portfel papierowy, zgodnie z liniami.\n<img src=\"images/foldinginstructions.png\" alt=\"Zegnij w pół w długości, a później na trzy w szerokości.\"><br>\nMożesz włożyć jeden bok do drugiego, aby dodatkowo zabezpieczyć portfel.",
+    "securitystep3": "Złóż swój nowy portfel papierowy, zgodnie z liniami.\n<img src=\"images/foldinginstructions.jpg\" alt=\"Zegnij w pół w długości, a później na trzy w szerokości.\"><br>\nMożesz włożyć jeden bok do drugiego, aby dodatkowo zabezpieczyć portfel.",
     "securitystep4title": "Krok 4. Udostępnij swój adres publiczny",
     "securitystep4": "Użyj swojego adresu publicznego, aby otrzymać pieniądze od innych użytkowników kryptowalut. Możesz udostępniać swój adres publiczny bez ograniczeń.",
     "securitystep5title": "Krok 5. Trzymaj swój klucz prywatny w tajemnicy",
